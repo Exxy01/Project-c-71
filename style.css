@@ -1,0 +1,12 @@
+.container{
+    background-color:linear-gradient(#0000ff 0%, #00ff00 100%);
+    border:1px solid;
+    border-radius:10px;
+    
+}
+.container h4, .container p{
+    margin:15px;
+}
+.container1{
+    background-color:aqua;
+}
